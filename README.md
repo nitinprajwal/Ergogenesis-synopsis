@@ -18,6 +18,7 @@
 
 **Ergogenesis** is a comprehensive platform designed to facilitate students in uploading their documents, projects, and patents. Faculty members can then review these submissions and take appropriate actions, such as forwarding them to organizations, filing patents, or submitting publications to official sites like IEEE.
 
+
 ## Features
 
 - **Student Dashboard:** Separate dashboard for students to manage their submissions.
